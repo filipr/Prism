@@ -16,6 +16,7 @@ from firedrake import Constant as FiredrakeConstant
 #from abc import ABCMeta, abstractmethod
 
 
+
 class ExtractFunctionTo2d(object):
     """
     Extract a 2D sub-function from a 3D function in an extruded mesh
